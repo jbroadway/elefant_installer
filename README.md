@@ -18,7 +18,7 @@ file with the following:
 		{"type": "git", "url": "http://github.com/jbroadway/elefant_installer"}
 	],
 	"require": {
-		"jbroadway/elefant_installer": "*"
+		"elefant/app-installer": "*"
 	}
 }
 ```
